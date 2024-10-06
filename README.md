@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>RENTALHUB</h1>
+  <h1>SUBLETHUB</h1>
 </div>
 
-## What is RentalHub?
+## What is Sublet lHub?
 
-RentalHub is your one-stop destination for all your rental needs. Rental Hub is a user-friendly online platform that allows users to conveniently rent a wide range of items, including furniture, televisions, two-wheelers, four-wheelers, clothes, and video games. Whether you're moving into a new place, need a vehicle for a weekend getaway, or simply want to try out the latest gaming console, Rental Hub has you covered.
+SubletHub is your one-stop destination for all your Sublet needs. Sublet Hub is a user-friendly online platform that allows users to conveniently rent a wide range of items, including furniture, televisions, two-wheelers, four-wheelers, clothes, and video games. Whether you're moving into a new place, need a vehicle for a weekend getaway, or simply want to try out the latest gaming console, Sublet Hub has you covered.
 
 
 ## What does it do?
@@ -12,7 +12,7 @@ RentalHub is your one-stop destination for all your rental needs. Rental Hub is 
 <ul>
 
 <li>
-Rental Hub offers an extensive selection of rental categories, making it easy for users to find what they need, Whether it be Furniture, Two wheeler, Four Wheeler or telivison We have got all covered.
+Sublet Hub offers an extensive selection of Sublet categories, making it easy for users to find what they need, Whether it be Furniture, Two wheeler, Four Wheeler or telivison We have got all covered.
 
 </ul>
 
@@ -25,20 +25,20 @@ Rental Hub offers an extensive selection of rental categories, making it easy fo
 
 3. Open the folder containing the cloned repository
 
-4.Clone the repository Rental-Hub
-Go inside Rental-Hub/
+4.Clone the repository Sublet-Hub
+Go inside Sublet-Hub/
 
 ```sh
 npm install 
 ```
 
-Go inside Rental-Hub/frontend
+Go inside Sublet-Hub/frontend
 
 ```sh
 npm install
 ```
 
-To start the project on localhost Go inside Rental-Hub/
+To start the project on localhost Go inside Sublet-Hub/
 
 ```sh
 nodemon
@@ -59,43 +59,43 @@ nodemon
 
 #### Landing Page
 
-![1](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4011.PNG)
+![1](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4011.PNG)
 
 #### Signup Page
 
-![2](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4016.PNG)
+![2](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4016.PNG)
 
 #### User Home Page
 
-![3](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4027.PNG)
+![3](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4027.PNG)
 
 #### User Profile Page
 
-![4](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4017.PNG)
+![4](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4017.PNG)
 
 #### Product Details Page
 
-![5](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4019.PNG)
+![5](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4019.PNG)
 
 #### About Us Page
 
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4018.PNG)
+![7](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4018.PNG)
 
 #### Admin Dashboard
 
-![6](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4023.PNG)
+![6](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4023.PNG)
 
 #### Admin All Orders Page
 
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4025.PNG)
+![7](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4025.PNG)
 
 #### Admin Products Page
 
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4026.PNG)
+![7](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4026.PNG)
 
 #### Admin All Orders
 
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4025.PNG)
+![7](https://github.com/vinayakg04/Sublet-Hub/blob/main/frontend/src/Images/4025.PNG)
 
 
 
